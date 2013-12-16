@@ -3,3 +3,9 @@ stefan:
   last_name: "Kohnen"
   email: "stefan@rivalfox.com"
   profile_name: "stefankohnen"
+
+nadine:
+  first_name: "Nadine"
+  last_name: "Leuker"
+  email: "anton_bla@kamehr.net"
+  profile_name: "nadineleuker"
