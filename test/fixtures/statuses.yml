@@ -7,5 +7,5 @@ two:
   user: stefan
 
 three:
-  content: "HerText"
+  content: HerText
   user: nadine
